@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div style="display: flex" align="center">
   <a href="https://github.com/gabrielOliv1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielOliv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielOliv1&hide=procfile&layout=compact&langs_count=7&theme=tokyonight"/>
